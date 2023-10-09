@@ -1,4 +1,4 @@
-### Hello! My name is Dimitris Trechas, welcome to my profile
+### Hello! My name is Dimitris Trechas, welcome to my profile!
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dimitristrechas)
